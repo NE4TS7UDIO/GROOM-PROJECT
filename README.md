@@ -1,6 +1,6 @@
 # Groom Project — Grid Day
 
-Surprise groomsmen proposal for Neat's wedding: a karting Grand Prix in Antwerp used as the delivery mechanism for a two-stage invite website.
+Surprise groomsmen proposal for Nate's wedding: a karting Grand Prix in Antwerp used as the delivery mechanism for a two-stage invite website.
 
 This folder is prepped for the build — nothing here is the live site yet. Start with `CLAUDE.md` for the full context, then:
 

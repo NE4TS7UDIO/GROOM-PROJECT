@@ -61,7 +61,7 @@ const weddingSans = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Grid Day — Karting à Anvers",
+  title: "Grand Prix — Karting à Anvers",
   description: "Journée karting Grand Prix, Indoorkarting Antwerpen.",
 };
 
